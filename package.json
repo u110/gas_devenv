@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/google-apps-script": "^0.0.28"
+  },
+  "devDependencies": {
+    "@google/clasp": "^1.6.0",
+    "tslint": "^5.11.0"
+  }
+}
